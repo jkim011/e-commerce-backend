@@ -23,6 +23,10 @@
   ## Usage
   Demonstration video: 
 
+  1. Sign into mysql
+  2. Run "SOURCE db/schema.sql" then exit
+  3. Run "node seeds/index.js"
+  4. npm start
   
   ## License 
   This application is covered under the following license:
