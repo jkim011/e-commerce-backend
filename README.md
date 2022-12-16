@@ -21,7 +21,7 @@
   2. Make sure mysql2, sequelize, and express are installed
 
   ## Usage
-  Demonstration video: 
+  Demonstration video: [jareds-ORM-challengeVID.webm](https://user-images.githubusercontent.com/112585959/208020243-6c40ce8a-cd15-4646-ad94-f3daf4747427.webm)
 
   1. Sign into mysql
   2. Run "SOURCE db/schema.sql" then exit
